@@ -18,3 +18,6 @@ Deliverables
 - README.md in GitHub repository
 - RETROSPECTIVE.md in GitHub repository
 - Link to Figma mockup (or wireframe) in README.md in GitHub repository
+=======
+Figma Mockup URL: https://www.figma.com/file/FEOl6mnqlZgHtN2wGtJlu6/Untitled?node-id=0%3A1&t=F3DYBpz25jYUEiyV-0
+
