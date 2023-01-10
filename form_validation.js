@@ -87,7 +87,7 @@ function writeConfirmation() {
       <p><span class="confirmation-label">Address:</span>  ${address}</p>
       <p><span class="confirmation-label">Zip code:</span>  ${zipcode}</p>
       <p><span class="confirmation-label">City:</span>  ${city}</p>
-      <p><span class="confirmation-label">Quantity:</span>  ${quantity}</p>
+      <p><span class="confirmation-label">Attendees:</span>  ${quantity}</p>
   `;
 
   // Set the confirmation as the innerHTML of the element
