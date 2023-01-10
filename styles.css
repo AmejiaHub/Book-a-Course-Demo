@@ -1,69 +1,12 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
+.logo {
+    padding-bottom: 10px;
 }
 
-body {
-    height: 100%;
-  }
-
-body {
-    background-image: url(/Images/pexels-photo-281260.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-
-}
-
-#header {
-    position: relative;
-    background-color: rgb(2,14,27);
-    display: flex;
-    width: 100%;
-}
-
-#companyName {
-    color: white;
-}
-
-#headerContent {
-    color: white;
-    padding-top: 10px;
+h5 {
     text-align: center;
-    margin: 0 auto;
-    display: flex;
-    width: auto;
-}
-
-.headerText {
-    color: white;
     padding-top: 10px;
-    text-align: center;
-    margin: 0 auto;
-    display: flex;
-    width: auto;
 }
 
-#content {
-    
-    margin-left: 70px;
-    margin-top: 50px;
+.confirmation-label {
+    text-align: left;
 }
-
-#footer {
-    position: relative;
-    background-color: rgb(2,14,27);
-    display:flex;
-    width: 100%;
-}
-
-.footerText {
-    color: white;
-    padding-top: 10px;
-    text-align: center;
-    margin: 0 auto;
-    display: flex;
-    width: auto;
-}
-
